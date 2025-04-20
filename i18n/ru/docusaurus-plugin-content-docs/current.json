@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Быстрый старт": {
+    "message": "Быстрый старт",
+    "description": "The label for category Быстрый старт in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Быстрый старт.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Быстрый старт in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.asdasd": {
+    "message": "asdasd",
+    "description": "The label for category asdasd in sidebar tutorialSidebar"
+  }
+}
